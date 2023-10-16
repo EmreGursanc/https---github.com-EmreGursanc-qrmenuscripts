@@ -1,0 +1,12 @@
+Öncellikle QR Menü Scripti Satın Aldığınız için teşekkür ederim.
+
+- Veritabanı Ayarları için admin-panel klasörü / ayarlar.php dosyasını kendi veritabanı bilgilerinize göre düzenleyiniz.
+	$db = new PDO("mysql:host=localhost;dbname=veritabani_adi",'kullanici_adi','sifre');
+- gefqrv1.sql dosyası zip içinde mevcuttur.
+* Admin sayfası bilgileri 
+
+KA: admin
+sifre: admin
+
+admin şifre ve adını Admin Panelden düzenleyebilirsiniz. Sağ Üst profil resmine tıklayarak Admin Ayarları Sayfasını ziyaret ediniz.
+Türkçe karakter problemi yaşarsanız eğer Veritabanı dilini kontrol ediniz. utf8_general_ci olarak ayarlayabilirsiniz.

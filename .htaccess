@@ -1,0 +1,6 @@
+RewriteEngine On
+RewriteRule ^iletisim$ iletisim.php [NC,L]
+RewriteRule ^index$ index.php [NC,L]
+RewriteRule ^hakkimizda$ hakkimizda.php [NC,L]
+RewriteRule ^urunler$ urunler.php [NC,L]
+RewriteRule ^menu$ menu.php [NC,L]
